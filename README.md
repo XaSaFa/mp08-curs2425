@@ -1,2 +1,9 @@
-# mp08-curs2425
-MP08 Aplicacions Web curs 2024 2025
+# MP08 - Aplicacions Web
+Curs 24/25
+
+- [NF1: Aplicacions Web]()
+- [NF2: Gestors de fitxers]()
+- [NF3: Sistemes d’aprenentatge]()
+- [NF4: Gestors de continguts]()
+
+
