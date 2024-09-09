@@ -68,6 +68,15 @@ Programa utilitzat per un client per comunicar-se per Internet, és una aplicaci
 
 Software que rep una entrada d'un usuari i li retorna la informació que creu que és més rellevant segons com estigui programat.
 
+### URL
+URL o Uniform Resource Locator és l'adreça a un recurs d'Internet que pot ser un document de text, imatge, vídeo...
+
+![image](https://github.com/user-attachments/assets/cb04f805-e839-4f1f-be16-4f9decc6fdff)
+
+Les URLs poden ser relatives o absolutes, les relatives apunten a un recurs del mateix domini on està la web, les absolutes sempre apunten al recurs indicant l'adreça sencera, començant per HTTP:// o HTTPS://
+
+![image](https://github.com/user-attachments/assets/a35adaa2-572b-42b5-b00c-875013172e1e)
+
 ### Web 1.0
 
 - Pàgines web escrites amb HTML.
