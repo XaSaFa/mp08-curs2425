@@ -1,5 +1,7 @@
 # NF1 - Aplicacions Web
 
+**Abans de començar farem un mapa conceptual sobre Aplicacions Web.**
+
 ## Introducció
 
 Les aplicacions que fem servir es poden dividir en diferents categories, quan parlem de la seva execució podem dividir-les entre **aplicacions d'escriptori** i **aplicacions web**.
