@@ -71,7 +71,6 @@ Activitat:
   - Cercarem un domini (la pàgina web de l'empresa).
   - Buscarem quantes paraules clau té registrades.
   - Buscarem quines són les paraules clau que té millor indexades.
-  - Buscarem el tràfic diari que rep la pàgina (visitants).
   - Busquem quants dominis tenen link a la web escollida.
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
