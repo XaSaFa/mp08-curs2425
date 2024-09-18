@@ -11,4 +11,5 @@
 
 ### Activitats
 
-- [Activitat 1](activitat1.md)
+- Activitat 1 - Activitat de SEO.
+- [Activitat 2](activitat1.md)
