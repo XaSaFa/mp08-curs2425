@@ -142,6 +142,12 @@ Podem crear llistes de contactes als quals s'enviarà un correu electrònic si u
 
 ![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/3dcad4b8-b2f3-4c45-bd03-3cad898f218b)
 
+Exemple de fitxer de text CSV
+```
+Name,E-mail 1 - Value
+Mark Fernández,mark.fernandez@iaballester.cat
+```
+
 ## La safata d'entrada:
 
 La safata d'entrada és el nom que rep el directori o secció on veiem els missatges que ens envien:
