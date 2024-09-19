@@ -12,4 +12,5 @@
 ### Activitats
 
 - Activitat 1 - Activitat de SEO.
-- [Activitat 2](activitat1.md)
+- [Activitat 2 - Correu electrònic](activitat_mail.md)
+
