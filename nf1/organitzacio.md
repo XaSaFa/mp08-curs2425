@@ -1,4 +1,6 @@
-![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/c2730eda-109f-4f91-aeb5-e727b14631c8)# Aplicacions d'organització:
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/c2730eda-109f-4f91-aeb5-e727b14631c8)
+
+# Aplicacions d'organització:
 
 ![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/03f4d40f-a61c-4cbe-bb46-1e9bff8c6dce)
 
