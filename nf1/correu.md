@@ -187,8 +187,12 @@ Quan volem escriure un correu però volem que s'envii a una data i hora diferent
 
 Quan un missatge ja no serveix de res el podem moure a la paperera on estaran durant 30 dies i després seran esborrats.
 
+# Gestors de correus electrònics:
 
+![Uploading image.png…]()
 
+Hi ha software que ens permet administrar diferents correus electrònics de forma centralitzada, un dels més utilitzats és Thunderbird.
 
+- [Instal·lació i administració de comptes de correu amb Thunderbird](https://dungeonofbits.com/instalar-y-configurar-cliente-de-correo-electronico-thunderbird-en-linux.html)
 
 
