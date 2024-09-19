@@ -20,7 +20,7 @@ De cara a les tasques és important definir la duració d'una tasca.
 
 Cada tasca és diferent segons la dificultat de fer-se o la duració en temps que consumeix.
 
-Si volem fer un treballa en paral·lel necessitem tasuqes que tinguin una duració similar, per exemple 1 hora, 4 hores o una jornada laboral.
+Si volem fer un treball en paral·lel necessitem tasuqes que tinguin una duració similar, per exemple 1 hora, 4 hores o una jornada laboral.
 
 Si hi ha tasques que duren més es poden dividir en tasques que durin menys o al contrari, agrupar diferents tasques en una més llarga.
 
