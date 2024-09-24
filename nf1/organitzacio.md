@@ -35,9 +35,10 @@ Aquestes aplicacions ens serveixen per organitzar les tasques que hem de fer en 
 **Activitat:**
 
 - Penseu 6 casos d'àmbits diferents en que seria important tenir una eina d'organització.
-- Agafeu 1 dels casos anteriors i penseu en 10 tasques diferents.
-- Agafeu Trello o Kanbanflow i feu tres apartats "Per fer", "En procés", "Fet".
-- Afegiu les 10 tasques a l'apartat "Per fer".
-- Aneu passant les tasques de "Per Fer" a "En procés" i després a "Fet".
-- Passeu-es de per fer a fetes.
+- Agafeu 2 dels casos anteriors i penseu en 10 tasques diferents.
+- A Trello fareu un cas i a Trello un altre.
+  - Feu tres apartats "Per fer", "En procés", "Fet".
+  - Afegiu les 10 tasques a l'apartat "Per fer".
+  - Aneu passant les tasques de "Per Fer" a "En procés" i després a "Fet".
+
 
