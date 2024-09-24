@@ -8,7 +8,7 @@ Fer una presentació **a una aplicació web** a elecció on s'expliquin:
 - X editors d'imatges online.
 - X creadors de presentacións online.
 - X editors de vídeo online.
-- X aplicacions web amb utilitats diverses queno entrin en les categories anteriors.
+- X aplicacions web amb utilitats diverses que no entrin dins de les categories anteriors.
 
 De totes les aplicacions s'ha d'explicar:
 
