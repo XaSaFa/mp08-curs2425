@@ -10,7 +10,7 @@ Aquí tenim una imatge de l'organització jeràrquica dels fitxers a un S.O. Lin
 
 Com podem veure té una estructura d'arbre, començant per l'arrel del sistea de fitxers **/**. 
 
-Si vull accedir a la careta photos de l'usuari jono no ho puc fer directament, ja que aquesta carpeta no està a l'arrel, la ruta correcta serà...
+Si vull accedir a la carpeta **photos** de l'usuari jono NO ho puc fer directament, ja que aquesta carpeta no és a l'arrel, la ruta correcta serà...
 
 🤔<br>
 🤔<br>
