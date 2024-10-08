@@ -14,7 +14,11 @@ Instal·lar paquet XXXX de apt:
 ```
 sudo apt install XXXX
 ```
-
+desinstal·lar paquet XXXX de apt:
+```
+sudo apt remove XXXX
+sudo apt purge XXXX
+```
 Comprovar si un servei funciona:
 ```
 sudo service SERVEI status
