@@ -28,6 +28,12 @@ sudo service SERVEI status
 Apagar equip:
 ```
 shutdown -h now
+poweroff
+```
+
+Reiniciar equip:
+```
+reboot now
 ```
 
 Connectar d'un equip a un altre per SSH
