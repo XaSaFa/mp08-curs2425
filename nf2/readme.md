@@ -11,6 +11,7 @@
 
 - [Activitat 0 - Gestors d'arxius de text i visuals](activitat0.md)
 - [Activitat 1 - Presentació Gestors d'arxius web](activitat1.md)
+- [Activitat 2 - Compartir a Google Drive](activitat2.md)
 
 ### Recursos: 
 
