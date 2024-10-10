@@ -6,6 +6,7 @@
 - [Introducció - Historia dels gestors d'arxius web](introduccio.md)
 - [Característiques](caracteristiques.md)
 - [Seguretat de contrasenyes](passwords.md)
+- [Tutorial instal·lació Owncloud](owncloud.md)
 
 ### Activitats
 
