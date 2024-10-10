@@ -44,4 +44,13 @@ sudo apt install php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcryp
 sudo nano /etc/php/7.4/apache2/php.ini
 ```
 
-Canviem els valors
+**Canviem els valors**
+
+- file_uploads = On
+- allow_url_fopen = On
+- memory_limit = 256M
+- upload_max_filesize = 100M
+- display_errors = Off
+- date.timezone = Europe/Madrid
+
+
