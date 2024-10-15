@@ -60,5 +60,10 @@ cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-la
 unzip owncloud-complete-latest.zip
 sudo mv owncloud /var/www/html/owncloud/
 ```
+## Canviar els permisos del directori d'Owncloud
 
+```
+sudo chown -R www-data:www-data /var/www/html/owncloud/
+sudo chmod -R 755 /var/www/html/owncloud/
+```
 
