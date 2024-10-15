@@ -67,3 +67,12 @@ sudo chown -R www-data:www-data /var/www/html/owncloud/
 sudo chmod -R 755 /var/www/html/owncloud/
 ```
 
+## Configurar Apache
+
+```
+sudo nano /etc/apache2/sites-available/owncloud.conf
+```
+Copiem aquest text al fitxer:
+
+https://dungeonofbits.com/images/owncloud1.jpg
+
