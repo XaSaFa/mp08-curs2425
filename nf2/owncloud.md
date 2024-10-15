@@ -53,4 +53,12 @@ sudo gedit /etc/php/7.4/apache2/php.ini
 - display_errors = Off
 - date.timezone = Europe/Madrid
 
+## Instal·lar Owncloud
+
+```
+cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
+unzip owncloud-complete-latest.zip
+sudo mv owncloud /var/www/html/owncloud/
+```
+
 
