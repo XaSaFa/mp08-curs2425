@@ -41,7 +41,7 @@ sudo apt install php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcryp
 ## Editar el fitxer de configuració de PHP 7.4
 
 ```
-sudo nano /etc/php/7.4/apache2/php.ini
+sudo gedit /etc/php/7.4/apache2/php.ini
 ```
 
 **Canviem els valors**
