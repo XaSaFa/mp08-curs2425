@@ -74,5 +74,5 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
 Copiem aquest text al fitxer:
 
-https://dungeonofbits.com/images/owncloud1.jpg
+![image](https://dungeonofbits.com/images/owncloud1.jpg)
 
