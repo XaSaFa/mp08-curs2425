@@ -76,3 +76,33 @@ Copiem aquest text al fitxer:
 
 ![image](https://dungeonofbits.com/images/owncloud1.jpg)
 
+### Habilitem el servei owncloud.conf que hem creat
+
+```
+sudo a2ensite owncloud.conf
+```
+
+Si en algun moment ho volem deshabilitar escriuríem: 
+
+```
+sudo a2dissite owncloud.conf
+```
+### Activem mòduls de Apache
+
+```
+sudo a2enmod rewrite
+sudo a2enmod headers
+sudo a2enmod env
+sudo a2enmod dir
+sudo a2enmod mime
+```
+
+### Reiniciem Apache
+
+```
+sudo service apache2 restart
+```
+
+## Per accedir a Owncloud
+
+Des d'un navegador de la Màquiva Virtual escrivim: **localhost/owncloud**
