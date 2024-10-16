@@ -23,7 +23,7 @@ sudo mariadb
 CREATE DATABASE owncloud;
 CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';
 GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;
-FLUSH PRIVILEGES
+FLUSH PRIVILEGES;
 EXIT;
 ```
 
