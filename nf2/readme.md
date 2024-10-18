@@ -11,7 +11,7 @@
 ### Activitats
 
 - [Activitat 0 - Gestors d'arxius de text i visuals](activitat0.md)
-- [Activitat 1 - Presentació Gestors d'arxius web](activitat1.md)
+
 - [Activitat 2 - Compartir a Google Drive](activitat2.md)
 - [Activitat Owncloud 1](activitat_owncloud1.md)
 - [Activitat Owncloud 2](activitat_owncloud2.md)
