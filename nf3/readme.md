@@ -3,3 +3,4 @@
 ## Teoria
 
 - [Introduction](intro.md)
+- [Classroom](classroom.md)
