@@ -11,7 +11,7 @@ You have to use a free gmail account because the iaballester one doesn't allow y
     - A material that is a link to a Youtube video.
     - One question.
     - One task.
-    - One task with a form attached.
+    - One task with a form attached (10 questions at least).
    
 - You have to look for two students (classmates) to do the activities and enroll them to the course.
 - You have to rate the activities of your students.
