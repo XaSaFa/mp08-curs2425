@@ -100,3 +100,19 @@ Hem de modificar un fitxer de configuració:
 ![image](https://github.com/user-attachments/assets/c74da37d-10fd-4b4d-b868-ca7d499652f7)
 
 Reiniciem Apache i recarguem la web.
+
+## Resetejar password ususari Moodle:
+
+![image](https://github.com/user-attachments/assets/89114281-94fd-488c-9139-ae2730ed5500)
+
+## Vídeo tutorial Moodle:
+
+[https://youtu.be/sKhYV19Rgw0](https://youtu.be/sKhYV19Rgw0)
+
+Al tutorial falta la part d'editar el fitxer php.ini:
+
+![image](https://github.com/user-attachments/assets/9915c55b-0ad1-4188-8ee3-966d83562409)
+![image](https://github.com/user-attachments/assets/44eb1c2e-7b38-4166-81ed-4121435cbab9)
+![image](https://github.com/user-attachments/assets/941c8aa4-e1da-4f0c-962a-45f7b1ea132f)
+
+
