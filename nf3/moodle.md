@@ -9,7 +9,7 @@ La web de Moodle és: [Moodle.org](https://moodle.org/).
 ## Requisits de Moodle
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎<br>
-Busqueu els requisits de hardware i software per instal·lar Moodle.<br>
+Busqueu els requisits de hardware i software per instal·lar Moodle 4.5.<br>
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
 
