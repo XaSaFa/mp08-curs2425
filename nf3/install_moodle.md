@@ -98,3 +98,5 @@ Hem de modificar un fitxer de configuració:
 ![image](https://github.com/user-attachments/assets/7b79854e-7dd7-418f-8317-abd812a8779e)
 
 ![image](https://github.com/user-attachments/assets/c74da37d-10fd-4b4d-b868-ca7d499652f7)
+
+Reiniciem Apache i recarguem la web.
