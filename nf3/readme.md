@@ -4,6 +4,8 @@
 
 - [Introduction](intro.md)
 - [Classroom](classroom.md)
+- [Introducció a Moodle](moodle.md)
+- [Instal·lació de Moodle](install_moodle.md)
 
 ## Activitats
 
