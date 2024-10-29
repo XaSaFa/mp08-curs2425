@@ -64,12 +64,12 @@ Obrim un navegador i escrivim **localhost/moodle**.
 
 ![image](https://github.com/user-attachments/assets/b211a05d-a23a-4f98-94e0-a01acc4cae62)
 
-Moodle ens avisa de que hem d'instal·lar els mòduls de PHP anomenats php-curl i php-zip.
+Moodle ens avisa de que hem d'instal·lar els mòduls de PHP anomenats php-curl i php-zip i uns quants que ens demanarà més endavant.
 
 ![image](https://github.com/user-attachments/assets/ac532708-4133-4bfa-89c0-52ccead55b20)
 
 ```
-sudo apt install php-curl php-zip
+sudo apt install php-curl php-zip php-xml php-mysqli php-mbstring
 sudo service apache2 restart
 ```
 
@@ -82,6 +82,19 @@ Seleccionem el controlador per la BBDD
 
 ![image](https://github.com/user-attachments/assets/afb662eb-6aaf-4527-b9b6-8f1a89757370)
 
+![image](https://github.com/user-attachments/assets/c1084b4d-79d1-4539-896f-dd121d843fc5)
 
+Moodle ens diu que falten mòduls per instal·lar de PHP
 
+```
+sudo apt install php-soap php-gd php-intl
+sudo service apache2 restart
+```
 
+Hem de modificar un fitxer de configuració:
+
+![image](https://github.com/user-attachments/assets/1218b224-d398-47ce-98a5-c8634b155824)
+
+![image](https://github.com/user-attachments/assets/7b79854e-7dd7-418f-8317-abd812a8779e)
+
+![image](https://github.com/user-attachments/assets/c74da37d-10fd-4b4d-b868-ca7d499652f7)
