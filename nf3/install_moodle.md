@@ -41,7 +41,7 @@ sudo unzip moodle-latest-405.zip -d /var/www/html
 ## Canviem el propietari del directori de Moodle per a que Apache pugui accedir
 
 ``` 
-sudo chown www-data:www-data -r /var/www/html/moodle
+sudo chown www-data:www-data -R /var/www/html/moodle
 ```
 
 ![image](https://github.com/user-attachments/assets/3359b833-b0cd-49f3-9452-e71aacb43193)
