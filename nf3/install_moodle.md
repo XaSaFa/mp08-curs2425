@@ -97,6 +97,8 @@ sudo service apache2 restart
 
 Hem de modificar un fitxer de configuració:
 
+Normalment està a /etc/php/8.1/apache2, si no és així estarà a /etc/php/8.1/cli, tenint en compte que si tenim una versió diferent de php s'h de canviar 8.1 per la versió que tenim instal·lada.
+
 ![image](https://github.com/user-attachments/assets/1218b224-d398-47ce-98a5-c8634b155824)
 
 ![image](https://github.com/user-attachments/assets/7b79854e-7dd7-418f-8317-abd812a8779e)
