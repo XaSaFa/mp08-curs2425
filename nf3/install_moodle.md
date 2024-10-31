@@ -56,6 +56,10 @@ sudo chown www-data:www-data moodle_data/
 
 ## Configurem la base de dades
 
+```
+sudo mariadb
+```
+
 ![image](https://github.com/user-attachments/assets/3ad3d846-5300-4556-8c28-d9783e3a2131)
 
 ## Configurar Moodle
