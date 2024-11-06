@@ -15,15 +15,15 @@ Busqueu els requisits de hardware i software per instal·lar Moodle 4.5.<br>
 
 ### Requisits de hardware servidor:
 
-- Disc dur: 200MB, recomanat 10GB per dades dels usuaris. 
-- CPU: Doble nucli mínim 2GHz. 
-- RAM: 2GB.
+- Disc dur: 
+- CPU: 
+- RAM: 
 
 ### Requisits de software servidor:
 
-- PHP: 8.1 o superior
-- Servidor web: Apache, nGinX o OpenLiteSpeed.
-- Base de dades: mariaDB, PostgreSQL, MySQL, Microsoft SQL Server o Oracle Database
+- PHP: 
+- Servidor web: 
+- Base de dades: 
 
 El client necessita un navegador.
  
