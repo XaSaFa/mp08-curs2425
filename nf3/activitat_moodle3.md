@@ -2,7 +2,7 @@
 
 ## Enunciat:
 
-En aquesta activitat creareu dos cursos nous a Moodle.
+En aquesta activitat creareu dos cursos nous a Moodle i entregareu un document pdf on es vegi el que heu fet.
 
 ## Curs 1 - Instal·lació d'Owncloud a Linux
 
@@ -26,14 +26,15 @@ Usuaris:
 
 El curs tindrà:
 
-- 2 documents.
-- 2 links a vídeos de Youtube.
-- 2 links a pàgines web.
-- 2 activitats que puntuaran sobre 10.
-- una duració de 01/01/2025 a 10/05/2025.
-- Un professor editor amb el nom d'un científic/a coneguts.
-- Un professor no editor amb el nom d'un divulgador/a coneguts.
-- Tres alumnes amb el nom d'un informàtic/a coneguts.
+- 2 seccions diferents on repartireu els següents elements:
+  - 2 documents.
+  - 2 links a vídeos de Youtube.
+  - 2 links a pàgines web.
+  - 2 activitats que puntuaran sobre 10.
+  - Una duració de 01/01/2025 a 10/05/2025.
+  - Un professor editor amb el nom d'un científic/a coneguts.
+  - Un professor no editor amb el nom d'un divulgador/a coneguts.
+  - Tres alumnes amb el nom d'un informàtic/a coneguts.
 
 
 
