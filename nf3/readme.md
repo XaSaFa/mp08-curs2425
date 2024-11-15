@@ -14,5 +14,5 @@
 - [Activity 1 - Classroom](activitat1.md)
 - [Activitat 2 - Documentació de la instal·lació de Moodle](activitat_moodle1.md)
 - [Activitat 3 - Creació de categories i cursos a Moodle](activitat_moodle2.md)
-- [Activitat 3 - Creació de cursos a Moodle](activitat_moodle3.md)
+- [Activitat 4 - Creació de cursos a Moodle](activitat_moodle3.md)
   
