@@ -2,4 +2,7 @@
 
 ## HTML
 
-- [Què és HTML](intro_html.md)
+- [Introducció a HTML](intro_html.md)
+- [Links](links.md)
+- [Imatges](imatges.md)
+- [Mapes d'imatges](mapa.md)
