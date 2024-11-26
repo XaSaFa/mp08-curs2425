@@ -18,7 +18,7 @@ Actualment anem per la versió 5 de HTML.
 
 ![Tim](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/220px-Tim_Berners-Lee.jpg)
 
-**Tim Berners-Lee** va ser el creador del primer navegador web a 1990 anomenat **worldwideweb** utilitzant el sistema NEXTSTEP i del primer servidor web anomenat **httpd** (HyperText Transfer Protocol Daemaon).
+**Tim Berners-Lee** va ser el creador del primer navegador web a 1990 anomenat **worldwideweb** utilitzant el sistema NEXTSTEP i del primer servidor web anomenat **httpd** (HyperText Transfer Protocol Daemon).
 
 ### Versions d'HTML:
 
