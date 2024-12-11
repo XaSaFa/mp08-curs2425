@@ -9,6 +9,13 @@
 - [llistes](llistes.md)
 - [Audio, video i multimedia](multimedia.md)
 
+## CSS
+
+- [Com inserir CSS a un web](inserir_css.md)
+- [Atribut style](style.md)
+- [Selectors de CSS](css1.md)
+- [Color](color.md)
+
 ## Activitats
 
 - [1 - html variat](activitat_html_1.md)
