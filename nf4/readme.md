@@ -24,3 +24,7 @@
 - [4 - Activitat colors](activitat_colors.md)
 - [5 - Activitat passatemps](activitat_passatemps.md)
 - [6 - CSS variat](activitat_css_variat.md)
+
+## Recursos
+
+- [www.w3schools.com](https://www.w3schools.com/)
