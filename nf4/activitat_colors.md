@@ -6,7 +6,7 @@
   - Cada mòdul tindrà un color de fons únic **definit per RGB (hexadecimal)**.
   - El pati, hores i dies de la setmana tindran un color de fons **definit per nom**.
 
-2. Utilitzant Gimp (o alguna altra eina) identifica els colors en mode RGB de la següent imatge:
+2. Utilitzant Gimp (o alguna altra eina) identifica els colors en mode RGB (hexadecimal) de la següent imatge:
   - Color de vestit de Super Lopez:
   - Color de capa de Super Lopez:
   - Color de la lletra S del vestit de Super Lopez:
