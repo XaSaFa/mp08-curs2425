@@ -15,6 +15,9 @@
 - [Atribut style](style.md)
 - [Selectors de CSS](css1.md)
 - [Color](color.md)
+- [Background](backgroundCSS.md)
+- [Border](borderCSS.md)
+- [Margin i padding](marging_paddingCSS.md)
 
 ## Activitats
 
