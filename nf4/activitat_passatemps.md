@@ -45,3 +45,67 @@ Utilitzant classes feu una taula similar a la següent:
 Utilitzant classes fes una taula similar a la següent:
 
 ![image](https://user-images.githubusercontent.com/110727546/218445161-82f65a13-db9b-4420-a0f5-c8308bb79b71.png)
+
+
+# Exemple de classe:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        
+        table{
+            border-collapse: collapse;
+            margin-left: 20px;
+        }
+
+        td {
+            font-size: 130px;
+            color:blue;
+            border-collapse: collapse;
+            border: blue solid 1px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .cella_buida{
+            padding-left: 100px;
+        }
+        .cella_blava{
+            background-color: aquamarine;
+        }
+        .cella_taronja{
+            background-color: orange;
+        }
+        .vora_ampla_dalt{
+            border-top: 4px blue solid;
+        }
+
+        .vora_ampla_esquerra {
+            border-left: 4px blue solid;
+        }
+        .vora_ampla_dreta {
+            border-right: 4px blue solid;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sudoku Sancho</h1>
+
+    <table>
+        <tr>
+            <td class="vora_ampla_dalt vora_ampla_esquerra cella_taronja">5</td>
+            <td class="cella_buida cella_blava vora_ampla_dalt"> </td>
+            <td class="cella_buida cella_blava vora_ampla_dalt"> </td>
+            <td class="cella_buida cella_blava vora_ampla_dalt vora_ampla_esquerra"> </td>
+            <td class="vora_ampla_dalt">4</td>
+            <td class="cella_buida cella_blava vora_ampla_dalt vora_ampla_dreta"> </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
+```
