@@ -109,3 +109,72 @@ Utilitzant classes fes una taula similar a la següent:
 </body>
 </html>
 ```
+
+# Exemple classe B:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemple CSS</title>
+    <style>
+        table, td {
+            border-collapse: collapse;
+            border: 1px blue solid;
+        }
+
+        td{
+            font-size: 60px;
+            color: blue;
+            padding: 0px 18px;
+        }
+
+        .vora_top{
+            border-top-width: 3px;
+        }
+        .vora_left{
+            border-left-width: 3px;
+        }
+        .vora_right{
+            border-right-width: 3px;
+        }
+        .buida{
+            padding: 32px;
+        }
+
+        .fons_blau{
+            background-color: aqua;
+        }
+        .fons_taronja{
+            background-color: orange;
+        }
+    </style>
+    
+</head>
+<body>
+
+    <table>
+        <tr>
+            <td class="fons_taronja vora_left vora_top">5</td>
+            <td class="buida fons_blau vora_top"></td>
+            <td class="buida fons_blau vora_top"></td>
+            <td class="buida fons_blau vora_left vora_top"></td>
+            <td class="vora_top">4</td>
+            <td class="buida fons_blau vora_right vora_top"></td>
+        </tr>
+
+        <tr>
+            <td class="fons_taronja vora_left vora_top">5</td>
+            <td class="buida fons_blau vora_top"></td>
+            <td class="buida fons_blau vora_top"></td>
+            <td class="buida fons_blau vora_left vora_top"></td>
+            <td class="vora_top">4</td>
+            <td class="buida fons_blau vora_right vora_top"></td>
+        </tr>
+    </table>
+    
+</body>
+</html>
+```
