@@ -19,8 +19,8 @@
 - [Border](borderCSS.md)
 - [Margin i padding](marging_paddingCSS.md)
 
-## Wordpress (Per entrar a editar la vostra web heu de fer-ho amb la URL localhost/smixers.com/wp-admin)
-
+## Wordpress 
+**(Per entrar a editar la vostra web heu de fer-ho amb la URL localhost/smixers.com/wp-admin)**
 - [Introducció a Wordpress](intro.md)
 - [Tipus d'usuaris de Wordpress](usuaris.md)
 - [Seguretat a Wordpress](seguretat.md)
