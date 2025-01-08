@@ -26,4 +26,11 @@ Executem autorun.sh
 
 ![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/9fa9fbeb-a553-48fc-9494-5110b3222879)
 
+Si us demana instal·lar gcc make perl introduïu la comanda
+
+```
+sudo apt install gcc make perl
+```
+
+
 Reiniciem la MV.
