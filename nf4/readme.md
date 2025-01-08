@@ -19,6 +19,14 @@
 - [Border](borderCSS.md)
 - [Margin i padding](marging_paddingCSS.md)
 
+## Wordpress
+
+- [Introducció a Wordpress](intro.md)
+- [Tipus d'usuaris de Wordpress](usuaris.md)
+- [Seguretat a Wordpress](seguretat.md)
+- [Pàgines i entrades de Wordpress](entrades.md)
+- [Pàgines obligatòries a una web](pagines_obligatories.md)
+
 ## Activitats
 
 - [1 - html variat](activitat_html_1.md)
