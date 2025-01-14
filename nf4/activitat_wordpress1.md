@@ -14,7 +14,7 @@ En aquesta pràctica fareu una pàgina web per un negoci a escollir entre els se
 Has de fer una pàgina web en Wordpress per un client, les opcions que ha de tenir de moment la web són:
 
 0. Busca un domini lliure a [Ionos](https://www.ionos.es/) que sigui concordant amb el negoci escollit i mostra una captura.
-1. Canviar el tema a un que sigui adequat.
+1. Canviar el tema de Wordpress per Hard News.
 2. Fiqueu el títol de la vostra Web que serà tipus de negoci + el vostre cognom, per exemple "Pastisseria Sancho" o "Balneari López".
 3. Busqueu una imatge de portada que representi la vostra empresa (la podeu generar am IA i/o editar).
 4. Editeu el menú per què tingui, de moment, les següents seccions (Inici, Blog, Botiga, Contacte i Contacta amb nosaltres).
