@@ -17,7 +17,7 @@ Has de fer una pàgina web en Wordpress per un client, les opcions que ha de ten
 1. Canviar el tema de Wordpress per Hard News.
 2. Fiqueu el títol de la vostra Web que serà tipus de negoci + el vostre cognom, per exemple "Pastisseria Sancho" o "Balneari López".
 3. Busqueu una imatge de portada que representi la vostra empresa (la podeu generar am IA i/o editar).
-4. Editeu el menú per què tingui, de moment, les següents seccions (Inici, Blog, Botiga, Contacte i Contacta amb nosaltres).
+4. Editeu el menú per què tingui, de moment, les següents seccions (Inici, Contacte i Contacta amb nosaltres).
 5. Quan carregui la web es veurà, de moment, només la pàgina d'Inici (que serà una pàgina que serveixi de presentació del negoci).
 
 Mostra tots els apartats anteriors.
