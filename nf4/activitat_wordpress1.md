@@ -30,4 +30,8 @@ Has de fer una pàgina web en Wordpress per un client, les opcions que ha de ten
   - Mail
   - Assumpte
   - Text
-    
+
+Per instal·lar un plugin Aneu a Escriptori de Wordpress -> Plugins -> Afegir un nou plugin i busqueu un plugin adient, l'heu d'instal·lar i després activar-lo:
+
+![image](https://github.com/user-attachments/assets/bd0a2da2-7bce-4e11-8326-0f433b5567a9)
+
