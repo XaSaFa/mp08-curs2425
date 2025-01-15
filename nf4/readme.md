@@ -34,8 +34,7 @@
 - [3 - activitats de llistes](activitat_llistes.md)
 - [4 - Activitat colors](activitat_colors.md)
 - [5 - Activitat passatemps](activitat_passatemps.md)
-- [6 - CSS variat](activitat_css_variat.md)
-- [7 - Wordpress 1](activitat_wordpress1.md)
+- [6 - Wordpress 1](activitat_wordpress1.md)
 
 ## Recursos
 
