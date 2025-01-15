@@ -20,4 +20,14 @@ Has de fer una pàgina web en Wordpress per un client, les opcions que ha de ten
 4. Editeu el menú per què tingui, de moment, les següents seccions (Inici, Contacte i Contacta amb nosaltres).
 5. Quan carregui la web es veurà, de moment, només la pàgina d'Inici (que serà una pàgina que serveixi de presentació del negoci).
 
-Mostra tots els apartats anteriors.
+# Pàgines del menú:
+
+- Inici: Té un breu text explicant la vostra empresa i una imatges relacionada.
+- Contacte: Té la vostra adreça postal, mail i telèfon, a més d'un mapa de Google Maps indicant l'adreça.
+- Contacta amb nosaltres: Aqui heu de crear un formulari utilitzant un plugin, que permeti demanar a l'usuari aquesta informació:
+  - Nom
+  - Cognoms
+  - Mail
+  - Assumpte
+  - Text
+    
