@@ -35,7 +35,7 @@
 - [4 - Activitat colors](activitat_colors.md)
 - [5 - Activitat passatemps](activitat_passatemps.md)
 - [6 - Wordpress 1](activitat_wordpress1.md)
-
+- [6 - Wordpress 2](activitat_wordpress2.md)
 ## Recursos
 
 - [www.w3schools.com](https://www.w3schools.com/)
