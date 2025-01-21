@@ -52,4 +52,7 @@ Investiga sobre els plugins que afegeixen banners per avisar als usuaris del llo
 
 Instal·la un plugin de còpies de seguretat (backup) que faci còpies setmanals del teu contigunt que s'emmagatzemin a Google Drive.
 
+## Actualitza el menú de la web perque mostri l'opció Botiga i Carrito de la compra.
+
+Amb un link a la botiga i el carrito de la compra de woocommerce respectivament.
 
