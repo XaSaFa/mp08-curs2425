@@ -1,4 +1,4 @@
-# Activitat Wordpress 5 - Creació d'usuaris per gestionar la nostra Web.
+# Activitat Wordpress 3 - Creació d'usuaris per gestionar la nostra Web.
 
 ## Usuaris
 
